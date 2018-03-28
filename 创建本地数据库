@@ -1,0 +1,3 @@
+1.  确认在app目录下是否存在config.py文件，如果没有请从看板上下载，放到app目录下
+2.  修改config.py文件中的数据库链接，改为自己本地书据库链接
+3.  在项目目录下运行 python manage.py db init即可创建数据库
